@@ -1,6 +1,6 @@
 ## Quick Project Tour
 
-[Click here to view the video tour](https://drive.google.com/file/d/1oFiCXYRDjLcmApqfe-ZpGOdrazskEkLh/view?usp=sharing)
+[Click here to view the video tour](https://drive.google.com/file/d/1L3Mep5XCrytenpfkegZGfKxJRrNPt8Ms/view?usp=sharing)
 
 ## Car Rental Project
 
